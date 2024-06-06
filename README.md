@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://rishabh-lac.vercel.app/" target="_blank">riya.tech</a>
+  <a href="https://riyajain.vercel.app/" target="_blank">riya.tech</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -9,11 +9,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rishabhjain208](https://github.com/rishabhjain208/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Riya-JAIN2001](https://github.com/Riya-JAIN2001/Portfolio-Website). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://rishabh-lac.vercel.app/" target="_blank">riya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://riyajain.vercel.app/" target="_blank">riya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
